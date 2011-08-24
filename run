@@ -1,0 +1,6 @@
+# /usr/bin/sh
+while [ 1 ]
+do
+	lua -lluarocks.require start.lua
+	sleep 1
+done

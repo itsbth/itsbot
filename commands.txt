@@ -1,0 +1,23 @@
+stoplisten: Stop listening to a channel - 5
+action: /me - 5
+eval: Evaluate a lua snippet - 0
+part: Leaves a channel - 4
+save: Saves changes - 1
+removeresponse: Removes a response - 2
+listen: Start listening to a channel - 5
+listratings: List available ratings - 0
+addresponse: Adds a response - 2
+csave: N/A - 1
+commands: No description - 0
+join: Joins a channel - 4
+togglechat: Toggle random chat - 5
+admins: List all admins - 0
+rate: Rate a person. Usage: rate person rating - 0
+raw: Sends a raw line to the server - 9
+setprob: N/A - 5
+getratings: Get a user ratings. Usage: getratings person - 0
+say: Say something - 2
+psay: Say something(reveals sender) - 0
+exec: Execute Lua - 10
+load: Load changes - 1
+reset: Resets the bot - 8
